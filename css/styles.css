@@ -186,6 +186,10 @@ img {
   padding-bottom: 24px;
 }
 
+a.header-link {
+  font-weight: 500;
+}
+
 /* .header-item{
   margin-right: 40px;
 }
@@ -268,7 +272,7 @@ img {
 
 .strategy-item-text {
   color: var(--first-title-color);
-  margin-bottom: 8px;
+  /* margin-bottom: 8px; */
 }
 
 /*----------foto----------*/
@@ -423,7 +427,7 @@ img {
 }
 
 .gallery-item {
-  margin-bottom: 8px;
+  /* margin-bottom: 8px; */
 }
 .gallery-btn {
   color: #4d5ae5;
@@ -458,10 +462,9 @@ img {
   letter-spacing: 0.02em;
   color: #2e2f42;
   margin-bottom: 8px;
-  margin-top: 32px;
+  /* margin-top: 32px; */
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
 }
 .gallery-title-text {
   font-family: "Roboto";
@@ -473,11 +476,10 @@ img {
   color: #434455;
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
 }
 .gallery-foto-container {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
-  margin-bottom: 8px;
+  /* margin-bottom: 8px; */
 }
