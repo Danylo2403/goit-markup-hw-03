@@ -376,6 +376,9 @@ img {
   display: flex;
   align-items: center;
 }
+.footer-logo {
+  display: inline-block;
+}
 
 .footer-logo-web {
   font-family: "Raleway", sans-serif;
