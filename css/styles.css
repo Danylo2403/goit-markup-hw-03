@@ -109,12 +109,12 @@ img {
   padding-right: 15px;
   /* центрування */
   margin: 0 auto;
-  /* outline: 2px solid red; */
+  outline: 2px solid red;
 }
 
 /*----------HEADER----------*/
 .header {
-  background-color: #e7e9fc;
+  background: #ffffff;
   padding-top: 24px;
   padding-bottom: 24px;
   border-bottom: 1px solid #e7e9fc;
@@ -215,12 +215,6 @@ img {
   max-width: 496px;
 }
 
-/* .hero-cont {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-} */
-
 .hero-btn {
   font-family: "Roboto", sans-serif;
   color: #ffffff;
@@ -238,6 +232,7 @@ img {
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  padding: 188 472 188 472;
 }
 
 .hero-btn:focus {
@@ -378,6 +373,8 @@ img {
 .footer-logo {
   display: inline-block;
   margin-bottom: 16px;
+  display: flex;
+  align-items: center;
 }
 
 .footer-logo-web {
@@ -392,6 +389,7 @@ img {
   text-transform: uppercase;
   color: #f4f4fd;
 }
+
 .footer-item-text {
   color: #f4f4fd;
   margin-top: 16px;
