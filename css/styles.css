@@ -371,7 +371,7 @@ img {
   color: #4d5ae5;
 }
 .footer-logo {
-  /* margin-bottom: 16px; */
+  margin-bottom: 16px;
   display: flex;
   align-items: center;
   display: inline-block;
@@ -396,9 +396,9 @@ img {
 
   max-width: 264px;
 }
-.footer-item-text {
+/* .footer-item-text {
   margin-top: 16px;
-}
+} */
 
 /*-------------Портфоліо-------------*/
 .gallery-btn {
