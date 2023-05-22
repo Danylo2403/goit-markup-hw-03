@@ -369,14 +369,12 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  display: inline-block;
 }
 .footer-logo {
-  margin-bottom: 16px;
+  /* margin-bottom: 16px; */
   display: flex;
   align-items: center;
-}
-.footer-logo {
+  display: inline-block;
 }
 
 .footer-logo-web {
@@ -390,12 +388,16 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
+  display: inline-block;
 }
 
 .footer-item-text {
   color: #f4f4fd;
-  margin-top: 16px;
+
   max-width: 264px;
+}
+.footer-item-text {
+  margin-top: 16px;
 }
 
 /*-------------Портфоліо-------------*/
