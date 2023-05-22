@@ -233,6 +233,12 @@ img {
   border-radius: 4px;
   cursor: pointer;
 }
+.hero-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
 
 .hero-btn:focus {
   background-color: #404bbf;
