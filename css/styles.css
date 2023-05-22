@@ -371,13 +371,11 @@ img {
   color: #4d5ae5;
 }
 .footer-logo {
-  display: inline-block;
   margin-bottom: 16px;
   display: flex;
   align-items: center;
 }
 .footer-logo {
-  display: inline-block;
 }
 
 .footer-logo-web {
@@ -391,6 +389,7 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
+  display: inline-block;
 }
 
 .footer-item-text {
